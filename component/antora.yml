@@ -1,0 +1,6 @@
+name: component-b
+title: Details
+version: 2.5
+prerelease: -beta.1
+nav:
+- modules/ROOT/nav.adoc
